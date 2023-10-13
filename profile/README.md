@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
+This is a place where I store all repositories related to server infrastructure for hosting my apps, and the app repos too.
 
-**Here are some ideas to get you started:**
+My apps:
+- [taonity/java-discord-help-tree-bot](https://github.com/taonity/java-discord-help-tree-bot)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+My environment - [taonity/prodenv](https://github.com/taonity/prodenv)
+
+You can see all other tools in the organization's repositories.
