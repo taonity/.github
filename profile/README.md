@@ -5,7 +5,7 @@ This is where I store all repositories related to server infrastructure for host
 My apps:
 - [taonity/artist-insight-service](https://github.com/taonity/artist-insight-service)
 - [taonity/vk-forwarder-bot](https://github.com/taonity/vk-forwarder-bot)
-- [taonity/java-discord-help-tree-bot](https://github.com/taonity/java-discord-help-tree-bot) - abondand 
+- [taonity/java-discord-help-tree-bot](https://github.com/taonity/java-discord-help-tree-bot) - abandoned 
 
 My environment - [taonity/prodenv](https://github.com/taonity/prodenv)
 
