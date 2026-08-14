@@ -3,6 +3,7 @@
 This is where I store all repositories related to server infrastructure for hosting my apps, and the app repos too.
 
 My apps:
+- [taonity/sinair-llm-bot](https://github.com/taonity/sinair-llm-bot)
 - [taonity/artist-insight-service](https://github.com/taonity/artist-insight-service)
 - [taonity/vk-forwarder-bot](https://github.com/taonity/vk-forwarder-bot) - abandoned 
 - [taonity/java-discord-help-tree-bot](https://github.com/taonity/java-discord-help-tree-bot) - abandoned 
